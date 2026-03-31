@@ -6,6 +6,13 @@ A desktop VR rhythm/action game build created with Unity and SteamVR.
 
 This repository currently contains a playable Windows build of the game (not the full Unity source project). Players use VR controllers to interact with the environment and perform core gameplay actions such as movement, turning, and UI interaction.
 
+## Gameplay Demo
+
+![Gameplay Demo 1](<Desktop Screenshot 2026.01.03 - 19.37.19.06.png>)
+![Gameplay Demo 2](<Desktop Screenshot 2026.01.03 - 19.39.09.82.png>)
+![Gameplay Demo 3](<Desktop Screenshot 2026.01.03 - 19.40.28.92.png>)
+![Gameplay Demo 4](<Desktop Screenshot 2026.01.03 - 19.41.52.38.png>)
+
 ## Build Contents
 
 - `VR Saber/My project.exe`: Main game executable
