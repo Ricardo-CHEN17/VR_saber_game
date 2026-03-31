@@ -8,10 +8,10 @@ This repository currently contains a playable Windows build of the game (not the
 
 ## Gameplay Demo
 
-![Gameplay Demo 1](<Desktop Screenshot 2026.01.03 - 19.37.19.06.png>)
-![Gameplay Demo 2](<Desktop Screenshot 2026.01.03 - 19.39.09.82.png>)
-![Gameplay Demo 3](<Desktop Screenshot 2026.01.03 - 19.40.28.92.png>)
-![Gameplay Demo 4](<Desktop Screenshot 2026.01.03 - 19.41.52.38.png>)
+| Demo 1 | Demo 2 |
+| --- | --- |
+| ![Gameplay Demo 1](<Desktop Screenshot 2026.01.03 - 19.37.19.06.png>) | ![Gameplay Demo 2](<Desktop Screenshot 2026.01.03 - 19.39.09.82.png>) |
+| ![Gameplay Demo 3](<Desktop Screenshot 2026.01.03 - 19.40.28.92.png>) | ![Gameplay Demo 4](<Desktop Screenshot 2026.01.03 - 19.41.52.38.png>) |
 
 ## Build Contents
 
