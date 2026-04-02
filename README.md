@@ -82,3 +82,7 @@ Controller-specific button mappings can be reviewed or customized in SteamVR:
 ## License
 
 No license file is currently provided in this repository. Add a license before public distribution.
+
+## Authors
+Yijin Chen
+Jiabao Cao
